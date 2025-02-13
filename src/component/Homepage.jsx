@@ -27,7 +27,7 @@ const Homepage = () => {
 
              {/* Buttons */}
             <div className="btn flex space-x-9">
-              <button className='px-6 py-3 bg-[#003DD1] text-white rounded-lg '>Download App</button>
+              <button className='px-6 py-3 bg-[#003DD2] text-white rounded-lg '>Download App</button>
               <button className=' w-40 h-12 px-6 py-3 bg-transparent border border-[#003DD1] text-[#003DD1] font-bold rounded-lg'>Post a Job</button>
             </div>
           </div>
